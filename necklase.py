@@ -37,4 +37,5 @@ while True:
 # Generate and print the necklace
   necklace = generate_necklace(num1, num2)
   print("Necklace:", necklace)
+  print("Necklace Length:", len(necklace))
   print()
